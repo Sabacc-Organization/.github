@@ -19,3 +19,4 @@ Contributors! If you have skills in any of the following or just plain like Saba
 - JavaScript/TypeScript
 - HTML
 - CSS
+- Discord Bots
