@@ -6,7 +6,7 @@ Sabacc, the space card game. A fast-paced, high-risk, perfect mixture of skill a
 The Sabacc Lodge Discord is a great place to find others to play Sabacc with or learn more about contributing to the project's software.
 ## The GitHub
 ### What you'll find here
-Any code relevant to the Sabacc Lodge. For now this is only the Web Application code, but in the future it might be a Discord bot, Mobile App, and more!
+Any code relevant to the Sabacc Lodge. For now this is only the Web Application code, but in the future it might be a Discord bot, Mobile App, Sabacc AI, and more!
 ### We are looking for. . .
 Contributors! If you have skills in any of the following or just plain like Sabacc and are willing to learn and get involved, please join the Discord.
 - Web Development
@@ -20,3 +20,5 @@ Contributors! If you have skills in any of the following or just plain like Saba
 - HTML
 - CSS
 - Discord Bots
+- AI/Game bots
+- Game Theory
